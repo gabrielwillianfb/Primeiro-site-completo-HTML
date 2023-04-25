@@ -1,0 +1,159 @@
+<<<<<<< HEAD
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background-color: rgba(71, 168, 211, 1);
+}
+.wrapper {
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+}
+.main {
+  display: flex;
+  flex-flow: column;
+  width: 85%;
+}
+.menu {
+  width: 15%;
+  background: rgba(71, 168, 211, 1);
+  padding: 20px 0px;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.header {
+  background-image: url(./assets/fundo-cabecalho.jpg);
+  min-height: 150px;
+}
+.content {
+  background-color: #cdd9e2;
+  min-height: 300px;
+  padding: 20px;
+}
+.footer label#titleFooter {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+.footer {
+  background-color: rgba(71, 168, 211, 1);
+  justify-content: space-between;
+  display: flex;
+  padding: 5% 2.5%;
+  align-items: center;
+}
+
+#titleHorario {
+  text-align: center;
+}
+
+#HorarioFuncionamento {
+  margin: 50px auto;
+  width: 80%;
+  border: 1px;
+}
+
+#HorarioFuncionamento thead {
+  background-color: rgb(138, 132, 132);
+}
+
+#HorarioFuncionamento tbody:hover {
+  background-color: rgba(71, 168, 211, 1);
+}
+
+#Endereco {
+  justify-content: center;
+  display: grid;
+}
+
+#textoEndereco {
+  display: flex;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+=======
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background-color: rgba(71, 168, 211, 1);
+}
+.wrapper {
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+}
+.main {
+  display: flex;
+  flex-flow: column;
+  width: 85%;
+}
+.menu {
+  width: 15%;
+  background: rgba(71, 168, 211, 1);
+  padding: 20px 0px;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.header {
+  background-image: url(./assets/fundo-cabecalho.jpg);
+  min-height: 150px;
+}
+.content {
+  background-color: #cdd9e2;
+  min-height: 300px;
+  padding: 20px;
+}
+.footer label#titleFooter {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+.footer {
+  background-color: rgba(71, 168, 211, 1);
+  justify-content: space-between;
+  display: flex;
+  padding: 5% 2.5%;
+  align-items: center;
+}
+
+#titleHorario {
+  text-align: center;
+}
+
+#HorarioFuncionamento {
+  margin: 50px auto;
+  width: 80%;
+  border: 1px;
+}
+
+#HorarioFuncionamento thead {
+  background-color: rgb(138, 132, 132);
+}
+
+#HorarioFuncionamento tbody:hover {
+  background-color: rgba(71, 168, 211, 1);
+}
+
+#Endereco {
+  justify-content: center;
+  display: grid;
+}
+
+#textoEndereco {
+  display: flex;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+>>>>>>> 07e771035411f80fdbe9f7d35a9ee1f5ee205672
